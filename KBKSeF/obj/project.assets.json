@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\Inne\\Zadania\\Astrafox\\KBKSeF\\KBKSeF.csproj",
+      "projectUniqueName": "D:\\Inne\\Zadania\\KSeF\\KSeF\\KBKSeF\\KBKSeF.csproj",
       "projectName": "KBKSeF",
-      "projectPath": "D:\\OneDrive\\Inne\\Zadania\\Astrafox\\KBKSeF\\KBKSeF.csproj",
+      "projectPath": "D:\\Inne\\Zadania\\KSeF\\KSeF\\KBKSeF\\KBKSeF.csproj",
       "packagesPath": "C:\\Users\\kryst\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\Inne\\Zadania\\Astrafox\\KBKSeF\\obj\\",
+      "outputPath": "D:\\Inne\\Zadania\\KSeF\\KSeF\\KBKSeF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

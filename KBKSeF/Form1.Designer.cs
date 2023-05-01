@@ -121,7 +121,7 @@
             buttonStatusCheck.Name = "buttonStatusCheck";
             buttonStatusCheck.Size = new Size(195, 23);
             buttonStatusCheck.TabIndex = 6;
-            buttonStatusCheck.Text = "Sprawdz status";
+            buttonStatusCheck.Text = "Sprawdź status";
             buttonStatusCheck.UseVisualStyleBackColor = true;
             buttonStatusCheck.Click += buttonStatusCheck_Click;
             // 

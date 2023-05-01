@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ljO0XbXM1w6F8jzRgLFuMBP99fT2Ni1IJsDAr0D4W2tJR/Q7HKxIQ2gpcY+mzwI2Q75ERTDgnpRDo8lbJDdp6Q==",
+  "dgSpecHash": "sNITRa5qikUF/89y9F21naaR9Yr5eowjCx5X8hCNeoOcw7TLhlZxtg2nm3/jq0F7k9ETtTejCfyZlQv+s4bhMg==",
   "success": true,
-  "projectFilePath": "D:\\OneDrive\\Inne\\Zadania\\Astrafox\\KSeFTests\\KSeFTests.csproj",
+  "projectFilePath": "D:\\Inne\\Zadania\\KSeF\\KSeF\\KSeFTests\\KSeFTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kryst\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\kryst\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
